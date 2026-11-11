@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400"><g transform="translate(0.0 0.0) scale(1.0000)">
+<circle cx="200" cy="200" r="190" fill="#eee3c9" stroke="#5e282c" stroke-width="12"/>
+<polygon points="70,152 200,80 330,152" fill="#5e282c"/>
+<polygon points="102,144 200,98 298,144" fill="#eee3c9"/>
+<polygon points="150,140 200,114 250,140" fill="#5e282c"/>
+<rect x="76" y="152" width="248" height="20" fill="#5e282c"/>
+<rect x="90" y="176" width="16" height="94" fill="#5e282c"/><rect x="120" y="176" width="16" height="94" fill="#5e282c"/><rect x="150" y="176" width="16" height="94" fill="#5e282c"/><rect x="234" y="176" width="16" height="94" fill="#5e282c"/><rect x="264" y="176" width="16" height="94" fill="#5e282c"/><rect x="294" y="176" width="16" height="94" fill="#5e282c"/>
+<path d="M172 270 V226 A28 28 0 0 1 228 226 V270 Z" fill="#5e282c"/>
+<path d="M184 270 V228 A16 16 0 0 1 216 228 V270 Z" fill="#eee3c9"/>
+<rect x="78" y="270" width="244" height="12" fill="#5e282c"/>
+<rect x="68" y="286" width="264" height="10" fill="#5e282c"/>
+<rect x="58" y="300" width="284" height="10" fill="#5e282c"/>
+</g></svg>
